@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250718-1333-Experimental"
+	Name="ali"
+	Generator="ctest-3.31.2"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ali"
+	OSRelease="5.15.0-139-generic"
+	OSVersion="#149~20.04.1-Ubuntu SMP Wed Apr 16 08:29:56 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ModelName="11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="4767"
+	TotalPhysicalMemory="15627"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1277.45"
+	>
+	<Testing>
+		<StartDateTime>Jul 18 17:31 +0330</StartDateTime>
+		<StartTestTime>1752847274</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 18 17:31 +0330</EndDateTime>
+		<EndTestTime>1752847274</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
