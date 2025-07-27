@@ -1,8 +1,0 @@
-prefix=/home/ali/catkin_ws/src/kamal_ocalib/build/devel
-
-Name: kamal_ocalib
-Description: Description of kamal_ocalib
-Version: 0.0.0
-Cflags: -I/home/ali/catkin_ws/src/kamal_ocalib/build/devel/include
-Libs: -L${prefix}/lib 
-Requires: rospy std_msgs message_runtime
