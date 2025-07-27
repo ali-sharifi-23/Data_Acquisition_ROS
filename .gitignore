@@ -1,1 +1,2 @@
-data_acquisition/record
+data_acquisition/record/*
+!data_acquisition/record/.gitkeep
