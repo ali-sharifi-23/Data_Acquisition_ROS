@@ -13,11 +13,11 @@ stereoData_port: 4000
 stereoData_topic: /stereo_msg
 
 ################ Synchronized Data ################
-sync_tolerance: 800000 # in nanoseconds
+sync_tolerance: 1000000 # in nanoseconds
 monoSync_topic: /synced_mono_msg
 stereoSync_topic: /synced_stereo_msg
 
-################ USB Camera Image Publisher ################
-cam_idx: 2
+################ USB Camera Im2ge Publisher ################
+usb_port: '0-1' 
 cam_topic: /camera/image_raw
 camInfo_topic: /camera/camera_info
